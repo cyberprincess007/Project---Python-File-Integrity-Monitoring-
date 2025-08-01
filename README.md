@@ -41,7 +41,7 @@ If not installed, I downloaded it from python.org and checked "Add Python to PAT
 
 ---
 
-### 2. Install Required Libraries
+## ** 2. Install Required Libraries**
 The script uses Python’s built-in libraries:
 
 hashlib — create file hashes
