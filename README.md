@@ -39,7 +39,7 @@ I made sure Python was installed by running:
 python --version
 If not installed, I downloaded it from python.org and checked "Add Python to PATH" during installation.
 
- 2. Install Required Libraries
+# 2. Install Required Libraries
 The script uses Python’s built-in libraries:
 
 hashlib — create file hashes
